@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie and epitaph on that glorious saint, and blessed martyr, King Charles I. The best of kings since Christ, but murther'd by the worst of men since the creation. Written a day or two after his martyrdom ... Now published to shew the world the unparallel'd patience and piety of the dead murther'd King; and the matchlesse impudence and impiety of his past and present living murtherers. For the suspition of which, and many other things, the author lay almost two years in the gate-house, defying all the insolent and illagal usurpation, and power at Westminster and White-Hall. Saying alwayes ... God bless King Charles the Second.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84142</idno>
+            <idno type="STC">Wing E343</idno>
+            <idno type="STC">Thomason E1057_3</idno>
+            <idno type="STC">ESTC R208039</idno>
+            <idno type="EEBO-CITATION">99867045</idno>
+            <idno type="PROQUEST">99867045</idno>
+            <idno type="VID">119335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119335)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1057[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie and epitaph on that glorious saint, and blessed martyr, King Charles I. The best of kings since Christ, but murther'd by the worst of men since the creation. Written a day or two after his martyrdom ... Now published to shew the world the unparallel'd patience and piety of the dead murther'd King; and the matchlesse impudence and impiety of his past and present living murtherers. For the suspition of which, and many other things, the author lay almost two years in the gate-house, defying all the insolent and illagal usurpation, and power at Westminster and White-Hall. Saying alwayes ... God bless King Charles the Second.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Williams at the Crown in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1660 Jan. 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:119335:1"/>
+AN ELEGIE AND EPITAPH On that glorious Saint, and bleſſed Martyr, King Charles I.</p>
+            <p>The beſt of Kings ſince Chriſt, but mur<g ref="char:EOLhyphen"/>ther'd by the worſt of men ſince the Creation.</p>
+            <p>Written a day or two after his Martyrdom, and occaſioned by an Arbitrary and Tyrannous Procla<g ref="char:EOLhyphen"/>mation that made it Treaſon for any man to ſpeak or write againſt the barbarous Murther.</p>
+            <p>Now publiſhed to ſhew the World the unparallel'd Patience and Piety of the dead Murther'd King; and the matchleſſe impudence and impiety of his paſt and preſent living Murtherers.</p>
+            <p>For the ſuſpition of which, and many other things, the Author lay almoſt two years in the Gate-houſe, defy<g ref="char:EOLhyphen"/>ing all the inſolent and illagal Uſurpation, and power at <hi>Weſtminſter</hi> and <hi>White-Hall.</hi>
+            </p>
+            <p>Saying alwayes then, and ever ſince, and ever will, <hi>God bleſs King CHARLES the Second.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Williams</hi> at the Crown in St. <hi>Paul's</hi> Church-yard. 1661.</p>
+            <pb facs="tcp:119335:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb n="3" facs="tcp:119335:2"/>
+            <head>
+               <hi>An Elegie on that glorious Saint, and bleſsed Mar<g ref="char:EOLhyphen"/>tyr,</hi> KING CHARLES <hi>the Firſt, the beſt of Kings ſince Chriſt, but murther'd by the worſt of men ſince the Creation.</hi>
+            </head>
+            <lg>
+               <l>NOt ſpeak! not write! I'le ſooner pray to Hell,</l>
+               <l>Preach againſt Heaven; &amp; the Almighty tell,</l>
+               <l>That <hi>Cromwel, Ireton, Peters,</hi> thoſe damn'd three</l>
+               <l>He-Furies: Earth's inhumane Trinitie,</l>
+               <l>Hell's <hi>Cerberus</hi> ſhall be my Saviour, ſet</l>
+               <l>My faith on this new Triple <hi>Mahomet:</hi>
+               </l>
+               <l>Change Greek and Hebrew for th' Arabick work;</l>
+               <l>And from a Chriſtian Cavalier, turn Turk.</l>
+            </lg>
+            <lg>
+               <l>Not ſpeak! not write! Comets ſhall ſooner be</l>
+               <l>Took to ſtop bloody-fluxt impietie:</l>
+               <l>And a full draught from Hell of liquid heat,</l>
+               <l>A cooling julip to the flaming meat.</l>
+            </lg>
+            <lg>
+               <l>Not ſpeak! not write! the many headed Snake,</l>
+               <l>
+                  <hi>Hydra,</hi> as many Chriſtian Kings ſhall make:</l>
+               <l>And all the Chriſtian Monarchs make at beſt</l>
+               <l>(Single or joyn'd) a many-headed Beaſt.</l>
+            </lg>
+            <lg>
+               <l>Can any pen or tongue be dumb, when guilt</l>
+               <l>Cries out ſo loud, ſuch innocent blood is ſpilt?</l>
+               <l>
+                  <pb n="4" facs="tcp:119335:3"/>
+No, it were ſilent blaſphemy, and nigh</l>
+               <l>To a conceal'd Chriſtian Apoſtacy;</l>
+               <l>And we might juſtly fear againſt us all</l>
+               <l>The fatal hand-writing upon the Wall.</l>
+            </lg>
+            <lg>
+               <l>Not ſpeak! nor write! hell's lower houſe as ſoon</l>
+               <l>May vote ſalvation to us, and the boon</l>
+               <l>Be ſign'd above, and I as eas'ly fear,</l>
+               <l>Deſtruction, as a Proclamation here.</l>
+            </lg>
+            <lg>
+               <l>Hence halters to thoſe hell-hounds that proclaim</l>
+               <l>Bad, good; truth, treaſon, in the Devil's name;</l>
+               <l>Shall <hi>Bradſhaw, Steel,</hi> and <hi>Cook,</hi> controul and rant,</l>
+               <l>Like <hi>Minos, Aeacus, and Rhadamant?</hi>
+               </l>
+               <l>Shall a whole Legion of packt fiends contrive</l>
+               <l>To murther God-like <hi>Charles,</hi> and I connive?</l>
+               <l>No, Were I dumb like <hi>Atys, (Creſus</hi> ſon)</l>
+               <l>I muſt cry out, when ſuch a deed is done<hi>:</hi>
+               </l>
+               <l>And ſpeak, and write in ſtrains as big, and high</l>
+               <l>(If poſſible) as all their villany:</l>
+               <l>Out-voice the Thunder when 'tis lowdly ſent</l>
+               <l>The wicked for a fright and puniſhment:</l>
+               <l>Silence hell's howles, and (faithleſſe) ſearch to find</l>
+               <l>Murtherers there of ſuch a bloudy kind.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Catiline, Sylla, Marius,</hi> thoſe old three;</l>
+               <l>Three Children in the fiery furnace be,</l>
+               <l>
+                  <pb n="5" facs="tcp:119335:3"/>
+Compar'd to theſe: the Roman Senat's hate</l>
+               <l>To <hi>Ceſar,</hi> but an honorable fate.</l>
+               <l>
+                  <hi>Ravilliac's</hi> hand imbrewd in milk, the ill</l>
+               <l>By <hi>Faux</hi> intended a meer pecca-dill.</l>
+               <l>The age and acts of that mad Parliament,</l>
+               <l>
+                  <hi>Henry</hi> the third's; a holy time of <hi>Lent,</hi>
+               </l>
+               <l>And pious works the Divell himſelf may paſſe</l>
+               <l>For a paſt, preſent, and a future Aſſe.</l>
+            </lg>
+            <lg>
+               <l>Wiſe <hi>Solomon</hi> was out, if he did ſumm</l>
+               <l>Prophetically up what was to come,</l>
+               <l>In his old ſaw; for I dare boldly ſay,</l>
+               <l>There's ſomething new under the Sun to day:</l>
+               <l>And the more new, becauſe it did not ſoon</l>
+               <l>Fright to a mid-night darknes, mid-day noon:</l>
+               <l>Threaten the World with Doomſday, &amp; each globe,</l>
+               <l>Hang round for it with a ſad fun'rall robe:</l>
+               <l>But caus'd Heavens ſearcher pry with brighter light,</l>
+               <l>As having never ſeen ſo black a ſight.</l>
+            </lg>
+            <lg>
+               <l>A ſight, at which all ages paſt, to come,</l>
+               <l>Out of Religion, muſt for ſhame be dumb:</l>
+               <l>Only this preſent, bold, Atheiſtick, tell,</l>
+               <l>What makes one ignorant, one Infidell:</l>
+               <l>Yet they who dare but ſpeak it now, may fear</l>
+               <l>Convulſions, we contuſions but to hear.</l>
+               <l>
+                  <pb n="6" facs="tcp:119335:4"/>
+I tremble when Gods vengeance ſhall begin,</l>
+               <l>What ſhoals of ſouls muſt expiate this ſin?</l>
+               <l>The Britiſh name and Nation muſt not die</l>
+               <l>Alone, but all the Princes far and nigh,</l>
+               <l>That ſuffer'd it: King Charles his bloody head,</l>
+               <l>The hairy Comet that portends them dead.</l>
+               <l>
+                  <hi>France, Spain, Pole, Denmark,</hi> all ye royal Clowns,</l>
+               <l>Self-Traytors, Sons of <hi>Coridons,</hi> not Crowns,</l>
+               <l>Look to it well, deſtruction's at your door;</l>
+               <l>This bloody Star was never ſeen before.</l>
+            </lg>
+            <lg>
+               <l>The World muſt be beheaded, common Fate</l>
+               <l>Headſman to introduce a common State:</l>
+               <l>And <hi>(Nero-like)</hi> all Monarchs here below,</l>
+               <l>By the baſe people ſuffer at one blow.</l>
+            </lg>
+            <lg>
+               <l>And may it come to paſſe, and worſe, may earth</l>
+               <l>And Heaven mix ſtrongly in a monſtrous birth</l>
+               <l>Of ſtrange unheard confuſion: the fixt ſtars</l>
+               <l>Dropt to the centre, ſet the Poles at jars.</l>
+               <l>The Signes Coeleſtial trace the Earth, the Seas</l>
+               <l>Turn Skies, and Angels mans Antipodes.</l>
+            </lg>
+            <lg>
+               <l>Since <hi>Charles</hi> is gone; that modern Princely frame</l>
+               <l>Of Ancient Virtue, and what e're bears name</l>
+               <l>Of pious, peaceable, religious, wiſe,</l>
+               <l>Juſt, learned, patient's taken from our eyes:</l>
+               <l>
+                  <pb n="7" facs="tcp:119335:4"/>
+Heaven's Darling dead; alive earth's chief delight,</l>
+               <l>To man let nothing ſeem in either right:</l>
+               <l>Only his ſpirit, (which now can purely ſee)</l>
+               <l>Behold in order all things as they be:</l>
+               <l>More bright by his eclipſe, and ſet, adorn'd</l>
+               <l>With a Coeleſtial Crown, for one was thorn'd.</l>
+            </lg>
+            <lg>
+               <l>Now th' art a great and glorious King indeed,</l>
+               <l>Above the <hi>Pater-noſter</hi> or the Creed</l>
+               <l>Of thy packt perjur'd Parliament, who ſwore,</l>
+               <l>And jugled in themſelves; thee out of door.</l>
+            </lg>
+            <lg>
+               <l>Here is no need a Parliament to call;</l>
+               <l>No uproars, tumults about this Whitehall:</l>
+               <l>The common-people, (Saints and Angels here)</l>
+               <l>Cry not for juſtice, but are void of fear,</l>
+               <l>And jealouſies; no Bomkins pens are pointed</l>
+               <l>With ſharp petitions againſt God's Annointed.</l>
+               <l>Here are no Members five, that plot, and plea</l>
+               <l>Againſt the known Laws, nor will ever be;</l>
+               <l>No City-guard, for ſubtile, guilty fear,</l>
+               <l>The Cittizens are wiſe, and honeſt here.</l>
+               <l>Here's no Rebellion under a pretence</l>
+               <l>Of evill Council, and a juſt defence:</l>
+               <l>No Presbyters, or Independents be,</l>
+               <l>To preach it up, heres onely Hierarchy,</l>
+               <l>And Monarchy, where God, as King controuls,</l>
+               <l>And Chriſt as the Arch-Biſhop of the ſouls.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:119335:5"/>
+               <l>Here is no driving hence, or forced flight,</l>
+               <l>No battell at <hi>Edge-hill,</hi> or <hi>Naſeby</hi> fight:</l>
+               <l>No running to the Scots, and then be ſold</l>
+               <l>By his falſe, covetous Natives, back for gold</l>
+               <l>To the bloud-thirſty Engliſh: an old crew</l>
+               <l>Of Chriſtian Savages, beyond the new</l>
+               <l>Heatheniſh Americans, and deeper dy'd</l>
+               <l>In royal goar than all the world beſide:</l>
+               <l>Only the Scot excepted, to whoſe ſhame</l>
+               <l>King-killer is a convertible name;</l>
+               <l>Falſe, ſtubborn, form, and matter: <hi>Judas</hi> can</l>
+               <l>Say, he was not ſo much Chriſt's Countryman;</l>
+               <l>Nor bound to ſuch obedience by the tie</l>
+               <l>Of ſubject, or the Law of Soveraignty:</l>
+               <l>Beſides that Chriſt could not ſo well be ſtil'd,</l>
+               <l>The Father of his Country, he his child:</l>
+               <l>Nay, boldly more in his defence he got</l>
+               <l>Not the tyth-penny of the greedy Scot.</l>
+               <l>But <hi>Judas</hi> there is out, and adds a lye</l>
+               <l>Unto his avarice, and treachery;</l>
+               <l>For he was onely one, and in earth's round</l>
+               <l>There could not be another <hi>Judas</hi> found?</l>
+               <l>To join and ſhare the ſum with him; but here</l>
+               <l>Did twenty thouſand <hi>Judaſses</hi> appear,</l>
+               <l>At once to ſell and ſhare their Maſter: he</l>
+               <l>Out-ſtrips them yet in his laſt obſequie,</l>
+               <l>And hangs himſelf for ſorrow; theſe are bent</l>
+               <l>To hang themſelves before they will repent;</l>
+               <l>
+                  <pb n="9" facs="tcp:119335:5"/>
+Such is their bloudy hardneſs, curſed <hi>Cain</hi>
+               </l>
+               <l>Stand ſtill, and let theſe Vagabonds obtain</l>
+               <l>Thy ſtragling puniſhment, 'tis theirs the rather,</l>
+               <l>Being leſſe to kill a Brother than a Father.</l>
+            </lg>
+            <lg>
+               <l>Here is no <hi>Holmby</hi> to reſtrain, or fright</l>
+               <l>Thy power, or peace; no Sea-bound <hi>Iſle of Wight</hi>
+               </l>
+               <l>To limit thee, no <hi>Carisbrook,</hi> no <hi>Hurst,</hi>
+               </l>
+               <l>No <hi>Whaley, Hammond, Ewer,</hi> and which is worſt;</l>
+               <l>No high, forg'd Court of falſhood, that dares try,</l>
+               <l>Affront, adjudge their Soveraign Lord to dye:</l>
+               <l>Againſt all honour, wiſdom, law, or right,</l>
+               <l>The <hi>Magna Charta</hi> of the meaneſt wight:</l>
+               <l>Unheard, or unaccus'd by any tongue,</l>
+               <l>But what from their own ſetting malice ſprung:</l>
+               <l>And after all theſe deeds of darkneſſe done,</l>
+               <l>To execute him in the open Sun:</l>
+               <l>An action without boldneſſe I may dare</l>
+               <l>Place next the Jews, to Chriſt; though not compare,</l>
+               <l>And yet the Jews were better in one thing,</l>
+               <l>Theſe call'd <hi>Charles</hi> Tyrant; and they Chriſt a King.</l>
+               <l>And I may ſay, his ſuffering ſet aſide,</l>
+               <l>None e're leſs King-like, or more Chriſt-like died.</l>
+            </lg>
+            <lg>
+               <l>To ſee a Monarch of three Kingdoms ſtand</l>
+               <l>At his own Gate, and in his chiefeſt land:</l>
+               <l>Mounted in ſpite upon a common throne</l>
+               <l>Of ſhame, and treaſon, by himſelf alone:</l>
+               <l>
+                  <pb n="10" facs="tcp:119335:6"/>
+Forſaken of his Nobles, Subjects, all,</l>
+               <l>But Rebells, by whoſe power he is to fall</l>
+               <l>A Martyr for Religion; and to die</l>
+               <l>Redeemer of the peoples libertie</l>
+               <l>From popular inſlavement, his bare head</l>
+               <l>bow'd to the Heads-mans hand to ſtrike him dead.</l>
+               <l>Yet all this while neither in word, or deed,</l>
+               <l>Oppoſe the traitrous axe, but mildly bleed,</l>
+               <l>Inſtructing firſt with a Majeſtick grace,</l>
+               <l>His graceleſſe guard that gaz'd him in the face,</l>
+               <l>Undutifully cover'd, praying too,</l>
+               <l>And pard'ning thoſe, that God can hardly do;</l>
+               <l>His abſent, preſent murtherers, who boaſt</l>
+               <l>A ſin next that againſt the Holy Ghoſt:</l>
+               <l>Malitious 'gainſt the light of truth, who can</l>
+               <l>Believe it? and all this as meerly man.</l>
+               <l>The earth that at Chriſts paſſion ſhook before,</l>
+               <l>Stood now ſtone-ſtill, as being amaz'd the more.</l>
+               <l>The graves that open'd at that horrid ſight,</l>
+               <l>Were huſht at this, as in a greater fright.</l>
+               <l>The veyl rent then, with us was long before,</l>
+               <l>Temple, Prieſts, Tables, all in peices tore.</l>
+               <l>Hell that but howl'd, now wept, and laught, the devil</l>
+               <l>Came ſad, and glad at once, to ſee this evil,</l>
+               <l>And good together mixt; whereby his Crown</l>
+               <l>Was ſo at once exalted, and caſt down.</l>
+               <l>Each circumſtance and accident to paint,</l>
+               <l>Would make a Saint an Atheiſt, Atheiſt Saint:</l>
+               <l>
+                  <pb n="11" facs="tcp:119335:6"/>
+And I to draw this white and black beſide,</l>
+               <l>Muſt have an Angel's wing, a Divel's hide.</l>
+            </lg>
+            <lg>
+               <l>And therefore being ſet (bright <hi>Charles)</hi> and we</l>
+               <l>Left here, not thine, but our own Elegie;</l>
+               <l>Dark, clowded Cavaliers, who hourly look</l>
+               <l>To find our names writ in thy ſanguine book:</l>
+               <l>By thy example let us learn to dye,</l>
+               <l>(As formerly to live) in piety,</l>
+               <l>Practiſe thy gifts, that we as well may be</l>
+               <l>The ſubjects of thy graces; as of thee:</l>
+               <l>Mild, merciful in death, and Martyrs fall</l>
+               <l>All we for thee; as thou haſt done for all:</l>
+               <l>That <hi>Charles,</hi> and Cavalier, within this Land,</l>
+               <l>For Saint, and Martyr, may hereafter ſtand.</l>
+            </lg>
+            <lg>
+               <l>And may thy Son, the glory of his Age,</l>
+               <l>And hopeful ſtop, and ſcourge of Rebels rage:</l>
+               <l>King <hi>Charles</hi> the ſecond, firſt to all beſide,</l>
+               <l>But thee, whom Engliſh Jews have cruciſied:</l>
+               <l>Great in good ſubjects and a vertuous name,</l>
+               <l>Be only <hi>Charles</hi> the leſſe in martyr'd fame.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:119335:7"/>
+            <pb n="13" facs="tcp:119335:7"/>
+            <head>An Epitaph</head>
+            <argument>
+               <p>
+                  <hi>On that unparallel'd Prince King</hi> CHARLS <hi>the Firſt, the Sacred and Royal, Church and State-Martyr of</hi> England; <hi>to his own glory, and the eternal ſhame of his three Kingdoms, and all Chriſtian Princes beſide, patiently yet publickly beheaded at his chief Court-gate,</hi> White-Hall <hi>January the</hi> 30. 1648.</p>
+            </argument>
+            <lg>
+               <l>STand off Rebellion, let no traitrous eye</l>
+               <l>Preſume to glance on Martyr'd Majeſty.</l>
+               <l>Duty, and love approach: yet draw not neer,</l>
+               <l>Without a drooping heart, a dropping tear:</l>
+               <l>No Age did ever any place intruſt</l>
+               <l>With ſuch ſad, ſacred, royall, dangerous duſt:</l>
+               <l>So threatning, and portentous, it may make</l>
+               <l>The preſent tremble, future Ages quake.</l>
+            </lg>
+            <lg>
+               <l>Here ſever'd lies, joind <hi>Britain's Charles</hi> the Firſt,</l>
+               <l>Beſt King ſince Chriſt, but butcher'd by the worſt</l>
+               <l>Of men ſince the Creation: a packt crew</l>
+               <l>Of Devils, that make the crucifying Jew</l>
+               <l>A Circumciſing Angell, and advance</l>
+               <l>Known malice above bloody ignorance:</l>
+               <l>
+                  <pb n="14" facs="tcp:119335:8"/>
+Such feinds 'twere ſin in Chriſtians to be wav'd,</l>
+               <l>To think they were created, can be ſav'd:</l>
+               <l>Whoſe Sun-burnt actions, and black midnight works,</l>
+               <l>White hells, Saint Atheiſts, deifie the Turks:</l>
+               <l>Not God's ſent executioners, and rod,</l>
+               <l>But executioners themſelves of God,</l>
+               <l>As high as they could reach; for here lies dead</l>
+               <l>God, in his earthly Image murthered.</l>
+            </lg>
+            <lg>
+               <l>A looking glaſſe, for Chriſtian Kings to ſee</l>
+               <l>Their downfall in beheaded Monarchy;</l>
+               <l>And Chriſtianity in it's full raie</l>
+               <l>Of Majeſty, benighted at noon-day:</l>
+               <l>As if the great and good of all the world,</l>
+               <l>In <hi>Charles</hi> his ſett were to a Chaos hurld.</l>
+            </lg>
+            <lg>
+               <l>But God, to vindicate the clowded flame</l>
+               <l>Of his ſlain Second, hath ſo ſtarr'd his name;</l>
+               <l>Black Treaſon needs this blazing truth muſt tell</l>
+               <l>Had he till Doomſ-day ſtood, h'ad ſooner fell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119335:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
